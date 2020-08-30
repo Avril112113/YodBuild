@@ -2,6 +2,10 @@
 Made for personal use to build Yodune projects  
 Only supports windows, linux support has a small chance of being supported  
 
+# Dependencies
+[LuaFileSystem](https://github.com/keplerproject/luafilesystem)  
+[LuaPak](https://github.com/jirutka/luapak)  
+
 # Options and Example
 ```lua
 local build = require "YodBuild"
